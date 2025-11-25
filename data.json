@@ -1,0 +1,243 @@
+[
+    {
+        "nome_universidade": "Pontifícia Universidade Católica de São Paulo - PUC-SP",
+        "localizacao_principal": "Consolação",
+        "ano_fundacao": "1946",
+        "link_website": "https://www.pucsp.br",
+        "areas_destaque": [
+            "Direito",
+            "Ciências Sociais",
+            "Jornalismo",
+            "Psicologia Clínica"
+        ]
+    },
+    {
+        "nome_universidade": "Universidade Presbiteriana Mackenzie - UPM",
+        "localizacao_principal": "Higienópolis",
+        "ano_fundacao": "1870",
+        "link_website": "https://www.mackenzie.br",
+        "areas_destaque": [
+            "Engenharia Civil",
+            "Arquitetura e Urbanismo",
+            "Direito",
+            "Administração de Empresas"
+        ]
+    },
+    {
+        "nome_universidade": "Fundação Armando Alvares Penteado - FAAP",
+        "localizacao_principal": "Higienópolis",
+        "ano_fundacao": "1947",
+        "link_website": "https://www.faap.br",
+        "areas_destaque": [
+            "Moda",
+            "Relações Internacionais",
+            "Comunicação Social",
+            "Artes Plásticas"
+        ]
+    },
+    {
+        "nome_universidade": "Escola Superior de Propaganda e Marketing - ESPM",
+        "localizacao_principal": "Vila Mariana",
+        "ano_fundacao": "1951",
+        "link_website": "https://www.espm.br",
+        "areas_destaque": [
+            "Publicidade e Propaganda",
+            "Marketing",
+            "Design",
+            "Cinema e Audiovisual"
+        ]
+    },
+    {
+        "nome_universidade": "Insper Instituto de Ensino e Pesquisa",
+        "localizacao_principal": "Vila Olímpia",
+        "ano_fundacao": "1987",
+        "link_website": "https://www.insper.edu.br",
+        "areas_destaque": [
+            "Economia",
+            "Administração",
+            "Engenharias",
+            "Ciência da Computação",
+            "Direito Empresarial"
+        ]
+    },
+    {
+        "nome_universidade": "Fundação Getulio Vargas - FGV EAESP",
+        "localizacao_principal": "Bela Vista",
+        "ano_fundacao": "1954",
+        "link_website": "https://eaesp.fgv.br",
+        "areas_destaque": [
+            "Administração de Empresas",
+            "Administração Pública",
+            "Finanças",
+            "Marketing"
+        ]
+    },
+    {
+        "nome_universidade": "Faculdade Cásper Líbero - FCL",
+        "localizacao_principal": "Avenida Paulista",
+        "ano_fundacao": "1947",
+        "link_website": "https://www.casperlibero.edu.br",
+        "areas_destaque": [
+            "Jornalismo",
+            "Rádio e TV",
+            "Relações Públicas",
+            "Publicidade e Propaganda"
+        ]
+    },
+    {
+        "nome_universidade": "Centro Universitário Belas Artes de São Paulo",
+        "localizacao_principal": "Vila Mariana",
+        "ano_fundacao": "1937",
+        "link_website": "https://www.belasartes.br",
+        "areas_destaque": [
+            "Design de Interiores",
+            "Arquitetura",
+            "Artes Visuais",
+            "Moda"
+        ]
+    },
+    {
+        "nome_universidade": "Universidade Anhembi Morumbi - UAM",
+        "localizacao_principal": "Vila Olímpia",
+        "ano_fundacao": "1970",
+        "link_website": "https://www.anhembimorumbi.edu.br",
+        "areas_destaque": [
+            "Hotelaria e Turismo",
+            "Design de Moda",
+            "Medicina Veterinária",
+            "Gastronomia"
+        ]
+    },
+    {
+        "nome_universidade": "Centro Universitário São Camilo",
+        "localizacao_principal": "Ipiranga",
+        "ano_fundacao": "1922",
+        "link_website": "https://saocamilo-sp.br",
+        "areas_destaque": [
+            "Medicina",
+            "Enfermagem",
+            "Nutrição",
+            "Fisioterapia"
+        ]
+    },
+    {
+        "nome_universidade": "Ibmec São Paulo",
+        "localizacao_principal": "Jardim Paulistano",
+        "ano_fundacao": "1970",
+        "link_website": "https://www.ibmec.edu.br/sp",
+        "areas_destaque": [
+            "Mercado Financeiro",
+            "Economia",
+            "Direito Empresarial",
+            "Relações Internacionais"
+        ]
+    },
+    {
+        "nome_universidade": "Centro Universitário FIAP",
+        "localizacao_principal": "Aclimação",
+        "ano_fundacao": "1999",
+        "link_website": "https://www.fiap.com.br",
+        "areas_destaque": [
+            "Engenharia da Computação",
+            "Análise e Desenvolvimento de Sistemas",
+            "Inteligência Artificial",
+            "Segurança da Informação"
+        ]
+    },
+    {
+        "nome_universidade": "Fundação Escola de Comércio Álvares Penteado - FECAP",
+        "localizacao_principal": "Liberdade",
+        "ano_fundacao": "1902",
+        "link_website": "https://www.fecap.br",
+        "areas_destaque": [
+            "Ciências Contábeis",
+            "Administração",
+            "Economia",
+            "Finanças Corporativas"
+        ]
+    },
+    {
+        "nome_universidade": "Universidade São Judas Tadeu - USJT",
+        "localizacao_principal": "Mooca",
+        "ano_fundacao": "1971",
+        "link_website": "https://www.usjt.br",
+        "areas_destaque": [
+            "Odontologia",
+            "Arquitetura e Urbanismo",
+            "Educação Física",
+            "Engenharia Civil"
+        ]
+    },
+    {
+        "nome_universidade": "Faculdades Metropolitanas Unidas - FMU",
+        "localizacao_principal": "Liberdade",
+        "ano_fundacao": "1968",
+        "link_website": "https://portal.fmu.br",
+        "areas_destaque": [
+            "Direito",
+            "Veterinária",
+            "Arquitetura",
+            "Administração"
+        ]
+    },
+    {
+        "nome_universidade": "Universidade Paulista - UNIP",
+        "localizacao_principal": "Indianópolis",
+        "ano_fundacao": "1988",
+        "link_website": "https://www.unip.br",
+        "areas_destaque": [
+            "Medicina",
+            "Enfermagem",
+            "Direito",
+            "Tecnologia e EAD"
+        ]
+    },
+    {
+        "nome_universidade": "Centro Universitário Senac São Paulo",
+        "localizacao_principal": "Santo Amaro",
+        "ano_fundacao": "1946",
+        "link_website": "https://www.sp.senac.br/ensino-superior",
+        "areas_destaque": [
+            "Gastronomia",
+            "Hotelaria",
+            "Design de Moda",
+            "Comunicação Social"
+        ]
+    },
+    {
+        "nome_universidade": "Universidade Nove de Julho - UNINOVE",
+        "localizacao_principal": "Barra Funda",
+        "ano_fundacao": "1972",
+        "link_website": "https://www.uninove.br",
+        "areas_destaque": [
+            "Medicina",
+            "Engenharias",
+            "Odontologia",
+            "Direito"
+        ]
+    },
+    {
+        "nome_universidade": "FGV Direito SP - Escola de Direito de São Paulo",
+        "localizacao_principal": "Bela Vista",
+        "ano_fundacao": "2002",
+        "link_website": "https://direitosp.fgv.br",
+        "areas_destaque": [
+            "Direito Público",
+            "Direito Empresarial",
+            "Regulação",
+            "Pesquisa Jurídica Aplicada"
+        ]
+    },
+    {
+        "nome_universidade": "IED São Paulo - Istituto Europeo di Design",
+        "localizacao_principal": "Higienópolis",
+        "ano_fundacao": "2005",
+        "link_website": "https://ied.edu.br",
+        "areas_destaque": [
+            "Design de Moda",
+            "Design de Produto",
+            "Design de Interiores",
+            "Marketing de Luxo"
+        ]
+    }
+]
